@@ -1,7 +1,7 @@
 # TheCorruptionImpact
 
 Here you will find the jupyter-notebook for conducting the experiments as well as the figures described in the paper:   
-The corruption impact
+**The corruption impact**
 
 ## Content
 
