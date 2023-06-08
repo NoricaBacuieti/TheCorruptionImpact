@@ -11,6 +11,7 @@ Here you will find the jupyter-notebook for conducting the experiments as well a
 ## Setup
 
 The experiments were run on an RTX 3090 with 40GB disk space and 25GB RAM.
+
 Each training and evaluating process finishes in maximum 20 minutes depending on the network size. 
 
 # How to reproduce the reults
