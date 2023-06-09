@@ -5,7 +5,7 @@ Here you will find the jupyter-notebook for conducting the experiments as well a
 
 ## Content
 
-1. The Final_The_Effect_of_Corrupted_Data_on_Modern_ML_Models.ipynb notebook for creating the all the tables and figures in the paper.
+1. The Final_Code_The_Effect_of_Corrupted_Data_on_Modern_ML_Models.ipynb notebook for creating the all the tables and figures in the paper.
 2. The Pictures folder contains all the confusion matrices associated with all the accuracies of the neural networks. 
 
 ## Setup
